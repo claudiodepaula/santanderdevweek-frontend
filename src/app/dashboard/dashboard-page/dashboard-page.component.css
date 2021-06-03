@@ -1,0 +1,7 @@
+.container {
+  width: 100%;
+  padding: 1.5em;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
